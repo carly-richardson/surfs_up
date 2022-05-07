@@ -6,15 +6,15 @@ Performing an analysis on temperature data for the months of June and December i
 
 ## Results
 
-<img width="144" alt="June Temps" src="https://user-images.githubusercontent.com/100643519/167271881-3416b701-32e0-41c2-9711-1e94f1ad8705.png">
-
-<img width="172" alt="December Temps" src="https://user-images.githubusercontent.com/100643519/167271886-ef997847-1250-4352-9cce-9ee7a33b2c7a.png">
-
 - The count of temperatures for the month of Decemeber is 1517 and the count of temperatures for the month of June is 1700.
 
 - The average temperature in Decemeber is approximately 71 degrees fahrenheit, and the average temperature in June is approximately 75.
 
 - The minimum recorded temperature in December is 56, and the minimum recorded temperature in June is 64.
+
+<img width="144" alt="June Temps" src="https://user-images.githubusercontent.com/100643519/167271881-3416b701-32e0-41c2-9711-1e94f1ad8705.png">
+
+<img width="172" alt="December Temps" src="https://user-images.githubusercontent.com/100643519/167271886-ef997847-1250-4352-9cce-9ee7a33b2c7a.png">
 
 ## Summary
 
